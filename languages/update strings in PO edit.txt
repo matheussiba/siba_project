@@ -1,0 +1,6 @@
+https://wiki.creativecommons.org/wiki/Translating_PO_Files
+
+Steps:
+1) Create a new (updated) POT file in POedit.
+2) Open the old version of the translated version and go to "Catalog" > "Update from POT file..."
+3) Edit the translation (if needed) and save.

@@ -1,0 +1,10 @@
+cinza: 				#e9e6df
+
+azul - logo: 		#135b97
+azul darker:		#0a4a72
+azul claro: 		#73bdbd
+
+vermelho: 			#dd3a40
+					#e04343
+
+verde: 				#42ad6a

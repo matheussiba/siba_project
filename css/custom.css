@@ -1,0 +1,30 @@
+/* Your custom css code goes here */
+
+/* Height of elements of blog section*/
+.blog_posts{ height: 293px; }
+
+/* Icons of posts*/
+.probootstrap-postsicons {	display: block;	color: #666 }
+.probootstrap-postsicons i {color: #ccc;	position: relative;	top: 2px;	width: 30px;	display: inline-block; zoom: 1 }
+.probootstrap-featured-news-box:focus .probootstrap-text .probootstrap-postsicons,
+.probootstrap-featured-news-box:hover .probootstrap-text .probootstrap-postsicons { color: rgba(255, 255, 255, .8)}
+.probootstrap-featured-news-box:focus .probootstrap-text .probootstrap-postsicons i, .probootstrap-featured-news-box:hover .probootstrap-text .probootstrap-postsicons i {	color: rgba(255, 255, 255, .4) }
+
+.parallax {
+  /* Set a specific height */
+  min-height: 300px;
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;  background-position: center;  background-repeat: no-repeat;  background-size: auto;
+}
+
+/* Overlay level for the photo slider */
+.flexslider .slides>li.overlay:before {	background: rgba(0, 0, 0, .3); }
+/* Overlay level for section with images. ex: Blog Section */
+.probootstrap-section.probootstrap-bg:before {	background: rgba(0, 0, 0, .3);}
+/* Overlay level for testimonial section */
+.probootstrap-testimonial:before { background: rgba(0, 0, 0, .7)!important }
+
+/* Height of each slide of Slider Section */
+.flexslider,.flexslider .slides>li,.slider-height { 	height: 500px }
+/* Height of each the text of each slider */
+.flexslider .probootstrap-slider-text {	margin-top: 200px }

@@ -1,0 +1,1222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Siba Project 1.0\n"
+"POT-Creation-Date: 2019-10-19 13:10+0200\n"
+"PO-Revision-Date: 2019-10-22 09:25+0200\n"
+"Last-Translator: Matheus Siba <matheus.eco.2010@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__;_x;__;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: footer.php:28
+msgid "Social"
+msgstr "Social"
+
+#: footer.php:37
+msgid "Links"
+msgstr "Links"
+
+#: footer.php:76 inc/customizer.php:16
+msgid "Contact Information"
+msgstr "Informações de contato"
+
+#: footer.php:98
+msgid "Privacy Policy"
+msgstr "Política de Privacidade"
+
+#: footer.php:100
+msgid "All rights reserved."
+msgstr "Todos os direitos reservados."
+
+#: footer.php:100
+msgid "Developed with"
+msgstr "Desenvolvido com"
+
+#: footer.php:100
+msgid "by"
+msgstr "por"
+
+#: footer.php:103
+msgid "Go to top"
+msgstr "Voltar ao topo"
+
+#: front-page.php:97 front-page.php:139 front-page.php:194 front-page.php:241
+#: front-page.php:290 index.php:52 page-aulas.php:64 page-equipe.php:66
+#: page-sobre.php:83
+msgid "Nothing found"
+msgstr "Nada encontrado"
+
+#: functions.php:142
+msgid "Class Name"
+msgstr "Nome da Aula"
+
+#: functions.php:145
+msgid "Team Member Name"
+msgstr "Nome do membro da equipe"
+
+#: functions.php:148
+msgid "Name of the Testimonial Person"
+msgstr "Nome da Pessoa (Depoimento)"
+
+#: functions.php:158
+msgid "Class Summary"
+msgstr "Resumo da aula"
+
+#: functions.php:160
+msgid "Write a summary for this class (between 15-25 words)."
+msgstr "Escreva um resumo para esta classe (entre 15 e 25 palavras)."
+
+#: functions.php:164 functions.php:170
+msgid "Person Role"
+msgstr "Função da pessoa"
+
+#: functions.php:166
+msgid "Write here the role of this person in your business (ex: Coordinator and Manager)."
+msgstr "Escreva aqui o papel dessa pessoa em sua empresa (ex: Coordenador e Gerente)."
+
+#: functions.php:172
+msgid "Write here the role of this person (ex: Student)."
+msgstr "Escreva aqui o papel dessa pessoa (ex: Aluno)."
+
+#: functions.php:191 functions.php:213 functions.php:237
+msgid "INSTRUCTIONS:"
+msgstr "INSTRUÇÕES:"
+
+#: functions.php:193
+msgid "1) Add the name of the class in the above box."
+msgstr "1) Adicione o nome da turma na caixa acima."
+
+#: functions.php:195
+msgid "2) Add a cover image for this class using the \"Cover Image\" box"
+msgstr "2) Adicione uma imagem de capa para esta classe usando a caixa \"Imagem da Aula\""
+
+#: functions.php:197
+msgid "3) Add a class summary, using the \"Class Summary\" box"
+msgstr "3) Adicione um resumo da turma, usando a caixa \"Resumo da Aula\""
+
+#: functions.php:199
+msgid "4) Write something about this class, using the text area box below. This text will only appear when someone wants to know more details about this class"
+msgstr "4) Escreva algo sobre esta classe, usando a caixa de área de texto abaixo. Este texto será exibido apenas quando alguém quiser saber mais detalhes sobre esta aula"
+
+#: functions.php:201 functions.php:225 functions.php:247
+msgid "Additionally you can adjust the order of appearance using the \"Item Attributes\" box > \"Order\"."
+msgstr "Além disso, você pode ajustar a ordem da aparência usando a caixa \"Atributos do item \"> \"Pedido \"."
+
+#: functions.php:203 functions.php:227 functions.php:249
+msgid "Numbers close to 0 appears first."
+msgstr "Números próximos a 0 aparecem primeiro."
+
+#: functions.php:215
+msgid "1) Add the name of the person in the above box."
+msgstr "1) Adicione o nome da pessoa na caixa acima."
+
+#: functions.php:217 functions.php:241
+msgid "2) Add a photo of this person using the \"Profile Picture\" box"
+msgstr "2) Adicione uma foto desta pessoa usando a caixa \"Foto da Pessoa\""
+
+#: functions.php:219
+msgid "3) Add the role of this person (ex: Coordinator, Teacher, etc.), using the \"Person Role\" box"
+msgstr "3) Adicione o papel dessa pessoa (ex: coordenador, professor etc.), usando a caixa \"Função da pessoa \""
+
+#: functions.php:221
+msgid "4) Add the social media links of this person using the \"Social Media\" box"
+msgstr "4) Adicione os links de mídia social dessa pessoa usando a caixa \"Mídia social\""
+
+#: functions.php:223
+msgid "5) Write something about this person, using the text area box below. This text will only appear when someone wants to know more details about this person"
+msgstr "5) Escreva algo sobre essa pessoa, usando a caixa de área de texto abaixo. Este texto aparecerá apenas quando alguém quiser saber mais detalhes sobre essa pessoa"
+
+#: functions.php:239
+msgid "1) Add the name of the person who is giving the testimonial, in the above box."
+msgstr "1) Adicione o nome da pessoa que está prestando o depoimento, na caixa acima."
+
+#: functions.php:243
+msgid "3) Add the role of this person (ex: Students, etc.), using the \"Person Role\" box"
+msgstr "3) Adicione o papel dessa pessoa (por exemplo: Alunos, etc.), usando a caixa \"Função da Pessoa \""
+
+#: functions.php:245
+msgid "4) Add the testimonial of this person in the text area box below"
+msgstr "4) Adicione o depoimento dessa pessoa na caixa de área de texto abaixo"
+
+#: functions.php:270
+msgid "Excerpt"
+msgstr "Resumo"
+
+#: general-template.php:18
+msgid "There&rsquo;s nothing yet to be displayed..."
+msgstr "Ainda não há nada a ser exibido..."
+
+#: header.php:71
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar plug-ins necessários"
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Instalando o plug-in: %s"
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Atualização do plug-in: %s"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Ocorreu um problema com a API do plug-in."
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Voltar para instalador de Plugins necessários"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Retorne para o Dashboard"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plug-in ativado com sucesso."
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "O seguinte plugin foi ativado com sucesso:"
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nenhuma ação tomada. O plug-in %1$s já estava ativo."
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin não ativado. Uma versão superior do %s é necessária para este tema. Por favor, atualize o plugin."
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos os plugins instalados e ativados com sucesso. %1$s"
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar essa notificação"
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Existem um ou mais plugins necessários ou recomendados para instalar, atualizar ou ativar."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Entre em contato com o administrador deste site para obter ajuda."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Atualização necessária"
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "O pacote de plug-in remoto não contém uma pasta com a lesma desejada e a renomeação não funcionou."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Entre em contato com o provedor do plug-in e solicite que empacote o plug-in de acordo com as diretrizes do WordPress."
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "O pacote de plug-in remoto consiste em mais de um arquivo, mas os arquivos não são empacotados em uma pasta."
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requeridos"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositório do WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fonte externa"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pré-empacotado"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Não instalado"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado mas não ativado"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Ativo"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Atualização necessária não disponível"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requer atualização"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Atualização recomendada"
+
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgid "%1$s, %2$s"
+msgstr "%1$s , %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgid "unknown"
+msgstr "desconhecido"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versão instalada:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versão mínima exigida:"
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versão disponível:"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Não há plugins para instalar, atualizar ou ativar."
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugar"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fonte"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versão"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "Instale %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "Atualizar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "Ativar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensagem de atualização do autor do plug-in:"
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Atualizar"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Ativar"
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Nenhum plug-in foi selecionado para ser instalado. Nenhuma ação tomada."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Nenhum plug-in foi selecionado para ser atualizado. Nenhuma ação tomada."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Nenhum plug-in está disponível para instalação no momento."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Não há plug-ins disponíveis para atualização no momento."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Nenhum plug-in foi selecionado para ser ativado. Nenhuma ação tomada."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Nenhum plug-in está disponível para ser ativado no momento."
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "A ativação do plug-in falhou."
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Atualização do plug-in %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocorreu um erro ao instalar %1$s : <strong>%2$s</strong>."
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "A instalação do %1$s falhou."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação e ativação está iniciando. Esse processo pode demorar um pouco em alguns hosts, portanto, seja paciente."
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado e ativado com sucesso."
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalhes"
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Detalhes ocultos"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas as instalações e ativações foram concluídas."
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando e ativando o plug-in %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "O processo de instalação está iniciando. Esse processo pode demorar um pouco em alguns hosts, portanto, seja paciente."
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado com sucesso."
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas as instalações foram concluídas."
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando o plug-in %1$s (%2$d/%3$d)"
+
+#: inc/cpts.php:7 inc/cpts.php:9 inc/cpts.php:36
+msgid "Classes"
+msgstr "Aulas"
+
+#: inc/cpts.php:8 inc/cpts.php:10
+msgid "Class"
+msgstr "Classe"
+
+#: inc/cpts.php:11 inc/cpts.php:65 inc/cpts.php:120
+msgid "Item Archives"
+msgstr "Arquivo de itens"
+
+#: inc/cpts.php:12 inc/cpts.php:66 inc/cpts.php:121
+msgid "Item Attributes"
+msgstr "Atributos do item"
+
+#: inc/cpts.php:13 inc/cpts.php:67 inc/cpts.php:122
+msgid "Item Parent:"
+msgstr "Pai do item:"
+
+#: inc/cpts.php:14 inc/cpts.php:68 inc/cpts.php:123
+msgid "All Items"
+msgstr "Todos os itens"
+
+#: inc/cpts.php:15 inc/cpts.php:69 inc/cpts.php:124
+msgid "Add New Item"
+msgstr "Adicionar novo item"
+
+#: inc/cpts.php:16 inc/cpts.php:70 inc/cpts.php:125
+msgid "Add New"
+msgstr "Adicionar novo"
+
+#: inc/cpts.php:17 inc/cpts.php:71 inc/cpts.php:126
+msgid "New Item"
+msgstr "Novo item"
+
+#: inc/cpts.php:18 inc/cpts.php:72 inc/cpts.php:127
+msgid "Edit Item"
+msgstr "Editar item"
+
+#: inc/cpts.php:19 inc/cpts.php:73 inc/cpts.php:128
+msgid "Update Item"
+msgstr "Atualizar item"
+
+#: inc/cpts.php:20 inc/cpts.php:74 inc/cpts.php:129
+msgid "View Item"
+msgstr "Ver item"
+
+#: inc/cpts.php:21 inc/cpts.php:75 inc/cpts.php:130
+msgid "View Items"
+msgstr "Exibir itens"
+
+#: inc/cpts.php:22 inc/cpts.php:76 inc/cpts.php:131
+msgid "Search Item"
+msgstr "Pesquisar Item"
+
+#: inc/cpts.php:23 inc/cpts.php:77 inc/cpts.php:132
+msgid "Not found"
+msgstr "Não encontrado"
+
+#: inc/cpts.php:24 inc/cpts.php:78 inc/cpts.php:133
+msgid "Not found in trash"
+msgstr "Não encontrado no lixo"
+
+#: inc/cpts.php:25 inc/customizer.php:1680 inc/customizer.php:1726
+#: inc/customizer.php:1772 inc/customizer.php:1818 inc/customizer.php:1864
+msgid "Cover Image"
+msgstr "Imagem de capa"
+
+#: inc/cpts.php:26
+msgid "Set an image for this class"
+msgstr "Defina uma imagem para esta classe"
+
+#: inc/cpts.php:27 inc/cpts.php:81 inc/cpts.php:136
+msgid "Remove image"
+msgstr "Remover imagem"
+
+#: inc/cpts.php:28 inc/cpts.php:82 inc/cpts.php:137
+msgid "Use featured image"
+msgstr "Usar imagem em destaque"
+
+#: inc/cpts.php:29 inc/cpts.php:83 inc/cpts.php:138
+msgid "Inserir into item"
+msgstr "Inserir no item"
+
+#: inc/cpts.php:30 inc/cpts.php:84 inc/cpts.php:139
+msgid "Uploaded to this item"
+msgstr "Carregado para este item"
+
+#: inc/cpts.php:31 inc/cpts.php:85 inc/cpts.php:140
+msgid "Items list"
+msgstr "Lista de itens"
+
+#: inc/cpts.php:32 inc/cpts.php:86 inc/cpts.php:141
+msgid "Items list Navigation"
+msgstr "Lista de itens Navegação"
+
+#: inc/cpts.php:33 inc/cpts.php:87 inc/cpts.php:142
+msgid "Filter items list"
+msgstr "Filtrar lista de itens"
+
+#: inc/cpts.php:37
+msgid "Classes you provide"
+msgstr "Classes que você fornece"
+
+#: inc/cpts.php:61 inc/cpts.php:62 inc/cpts.php:63 inc/cpts.php:64
+#: inc/cpts.php:90
+msgid "Team"
+msgstr "Equipe"
+
+#: inc/cpts.php:79 inc/cpts.php:134
+msgid "Profile Picture"
+msgstr "Foto da Pessoa"
+
+#: inc/cpts.php:80 inc/cpts.php:135
+msgid "Set an image for this person"
+msgstr "Definir uma imagem para esta pessoa"
+
+#: inc/cpts.php:91
+msgid "Your Team"
+msgstr "Sua Equipe"
+
+#: inc/cpts.php:116 inc/cpts.php:118 inc/customizer-default-values.php:80
+msgid "Testimonials"
+msgstr "Depoimentos"
+
+#: inc/cpts.php:117 inc/cpts.php:119 inc/cpts.php:145
+msgid "Testimonial"
+msgstr "Depoimento"
+
+#: inc/cpts.php:146
+msgid "The testimonials of your business"
+msgstr "Os depoimentos de sua empresa"
+
+#: inc/cpts.php:175
+msgid "Social Media"
+msgstr "Mídia social"
+
+#: inc/cpts.php:184
+msgid "Facebook Link"
+msgstr "Link do Facebook"
+
+#: inc/cpts.php:186
+msgid "Facebook link of this person (if any)"
+msgstr "Link no Facebook dessa pessoa (se houver)"
+
+#: inc/cpts.php:191
+msgid "WhatsApp Number"
+msgstr "Número do WhatsApp"
+
+#: inc/cpts.php:193
+msgid "WhatsApp number of this person (if any)"
+msgstr "Número do WhatsApp dessa pessoa (se houver)"
+
+#: inc/cpts.php:198
+msgid "Instagram Link"
+msgstr "Link do Instagram"
+
+#: inc/cpts.php:200
+msgid "Instagram link of this person (if any)"
+msgstr "Link do Instagram desta pessoa (se houver)"
+
+#: inc/cpts.php:205
+msgid "Linkedin Link"
+msgstr "Link do Linkedin"
+
+#: inc/cpts.php:207
+msgid "Linkedin link of this person (if any)"
+msgstr "Link de link desta pessoa (se houver)"
+
+#: inc/cpts.php:212
+msgid "Twitter Link"
+msgstr "Link do Twitter"
+
+#: inc/cpts.php:214
+msgid "Twitter link of this person (if any)"
+msgstr "Link no Twitter dessa pessoa (se houver)"
+
+#: inc/cpts.php:219
+msgid "Youtube Link"
+msgstr "Link do YouTube"
+
+#: inc/cpts.php:221
+msgid "Youtube link of this person (if any)"
+msgstr "Link do YouTube dessa pessoa (se houver)"
+
+#: inc/cpts.php:226
+msgid "Pinterest Link"
+msgstr "Pinterest Link"
+
+#: inc/cpts.php:228
+msgid "Pinterest link of this person (if any)"
+msgstr "Link do Pinterest desta pessoa (se houver)"
+
+#: inc/customizer-default-values.php:8
+msgid "1st Harpst St., Arcata, USA"
+msgstr "1st Harpst St., Arcata, EUA"
+
+#: inc/customizer-default-values.php:9
+msgid "email@mydomain.com"
+msgstr "email@meudominio.com"
+
+#: inc/customizer-default-values.php:10
+msgid "(99) 99999-9999"
+msgstr "(99) 99999-9999"
+
+#: inc/customizer-default-values.php:11
+msgid "+1 (99) 99999-9999"
+msgstr "(99) 99999-9999"
+
+#: inc/customizer-default-values.php:20
+msgid "Clean. Simple. Sincere"
+msgstr "Limpo. Simples. Sincero"
+
+#: inc/customizer-default-values.php:32
+msgid "Welcome"
+msgstr "Bem vinda"
+
+#: inc/customizer-default-values.php:33
+msgid "About Us"
+msgstr "Sobre nós"
+
+#: inc/customizer-default-values.php:34
+msgid "Type an introduction about your business (between 20-30 words) in here"
+msgstr "Digite uma introdução sobre sua empresa (entre 20 a 30 palavras) aqui"
+
+#: inc/customizer-default-values.php:35
+msgid "Read More"
+msgstr "Ler Mais"
+
+#: inc/customizer-default-values.php:41
+msgid "Students"
+msgstr "Alunos"
+
+#: inc/customizer-default-values.php:45
+msgid "Teachers"
+msgstr "Professores"
+
+#: inc/customizer-default-values.php:49
+msgid "Health"
+msgstr "Saúde"
+
+#: inc/customizer-default-values.php:53
+msgid "Happy"
+msgstr "Feliz"
+
+#: inc/customizer-default-values.php:58
+msgid "Highlights"
+msgstr "Destaques"
+
+#: inc/customizer-default-values.php:59
+msgid "Featured News"
+msgstr "Notícias em Destaque"
+
+#: inc/customizer-default-values.php:60 inc/customizer-default-values.php:64
+msgid "See All"
+msgstr "Ver tudo"
+
+#: inc/customizer-default-values.php:63
+msgid "Upcoming Events"
+msgstr "Próximos Eventos"
+
+#: inc/customizer-default-values.php:68
+msgid "Our Classes"
+msgstr "Nossas aulas"
+
+#: inc/customizer-default-values.php:69 inc/customizer-default-values.php:74
+#: inc/customizer-default-values.php:81 inc/customizer-default-values.php:85
+#: inc/customizer-default-values.php:109
+msgid "(Optional text)"
+msgstr "(Texto opcional)"
+
+#: inc/customizer-default-values.php:70
+msgid "More Details"
+msgstr "Mais detalhes"
+
+#: inc/customizer-default-values.php:73
+msgid "Our Team"
+msgstr "Nosso time"
+
+#: inc/customizer-default-values.php:76
+msgid "See All Team"
+msgstr "Veja toda a equipe"
+
+#: inc/customizer-default-values.php:84
+msgid "Why to Study here?"
+msgstr "Por que estudar aqui?"
+
+#: inc/customizer-default-values.php:86 inc/customizer-default-values.php:89
+#: inc/customizer-default-values.php:92 inc/customizer-default-values.php:95
+#: inc/customizer-default-values.php:98 inc/customizer-default-values.php:101
+msgid "Inspiring Title"
+msgstr "Título inspirador"
+
+#: inc/customizer-default-values.php:108
+msgid "Our Location"
+msgstr "Nossa Localização"
+
+#: inc/customizer-default-values.php:112
+msgid "Get in Touch!"
+msgstr "Entrar em contato!"
+
+#: inc/customizer-default-values.php:113
+msgid "Subscribe Now"
+msgstr "Inscreva-se agora"
+
+#: inc/customizer-default-values.php:117
+msgid "Business Name"
+msgstr "Nome da empresa"
+
+#: inc/customizer-default-values.php:118
+msgid "Send Us a Message"
+msgstr "Envie-nos uma mensagem"
+
+#: inc/customizer-default-values.php:119
+msgid "Contact us via form below:"
+msgstr "Entre em contato conosco através do formulário abaixo:"
+
+#: inc/customizer.php:17
+msgid "Contact Information Settings"
+msgstr "Configurações de informações de contato"
+
+#: inc/customizer.php:30
+msgid "Address"
+msgstr "Endereço"
+
+#: inc/customizer.php:31
+msgid "Type here your address"
+msgstr "Digite aqui o seu endereço"
+
+#: inc/customizer.php:46
+msgid "Telephone"
+msgstr "Telefone"
+
+#: inc/customizer.php:47
+msgid "Type your phone number here"
+msgstr "Digite seu número de telefone aqui"
+
+#: inc/customizer.php:62
+msgid "WhatsApp"
+msgstr "Whatsapp"
+
+#: inc/customizer.php:63
+msgid "Type your whatsapp number"
+msgstr "Digite seu número whatsapp"
+
+#: inc/customizer.php:78
+msgid "E-mail"
+msgstr "E-email"
+
+#: inc/customizer.php:79
+msgid "Type your e-mail here"
+msgstr "Digite seu e-mail aqui"
+
+#: inc/customizer.php:94
+msgid "Social Media Links"
+msgstr "Links de mídia social"
+
+#: inc/customizer.php:95
+msgid "Twitter account link"
+msgstr "Link da conta do Twitter"
+
+#: inc/customizer.php:111
+msgid "Facebook account link"
+msgstr "Link da conta do Facebook"
+
+#: inc/customizer.php:127
+msgid "Instagram account link"
+msgstr "Link da conta do Instagram"
+
+#: inc/customizer.php:143
+msgid "Pinterest account link"
+msgstr "Link da conta do Pinterest"
+
+#: inc/customizer.php:159
+msgid "Linkedin account link"
+msgstr "Link da conta do Linkedin"
+
+#: inc/customizer.php:175
+msgid "Youtube account link"
+msgstr "Link da conta do YouTube"
+
+#: inc/customizer.php:184
+msgid "Section: Photo Slider"
+msgstr "Seção: Photo Slider"
+
+#: inc/customizer.php:185 inc/customizer.php:575 inc/customizer.php:842
+#: inc/customizer.php:997 inc/customizer.php:1053 inc/customizer.php:1138
+#: inc/customizer.php:1200 inc/customizer.php:1607
+msgid "Section Settings"
+msgstr "Configurações da seção"
+
+#: inc/customizer.php:200 inc/customizer.php:253 inc/customizer.php:306
+#: inc/customizer.php:357 inc/customizer.php:408
+msgid "Image"
+msgstr "Imagem"
+
+#: inc/customizer.php:201 inc/customizer.php:254 inc/customizer.php:307
+#: inc/customizer.php:358 inc/customizer.php:409 inc/customizer.php:1188
+msgid "Dimensions"
+msgstr "Dimensões"
+
+#: inc/customizer.php:218 inc/customizer.php:271 inc/customizer.php:323
+#: inc/customizer.php:374 inc/customizer.php:425
+msgid "Image sentence"
+msgstr "Frase de imagem"
+
+#: inc/customizer.php:235 inc/customizer.php:287 inc/customizer.php:339
+#: inc/customizer.php:390 inc/customizer.php:441
+msgid "Image sentence link"
+msgstr "Link da frase da imagem"
+
+#: inc/customizer.php:450
+msgid "Section: Welcome"
+msgstr "Seção: Bem-vindo"
+
+#: inc/customizer.php:451
+msgid "Section settings"
+msgstr "Configurações de seção"
+
+#: inc/customizer.php:465
+msgid "Section Title"
+msgstr "Título da seção"
+
+#: inc/customizer.php:482
+msgid "Left Panel"
+msgstr "Painel esquerdo"
+
+#: inc/customizer.php:483
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/customizer.php:499
+msgid "Summary:"
+msgstr "Resumo:"
+
+#: inc/customizer.php:515 inc/customizer.php:1112
+msgid "Button Text:"
+msgstr "Botão de texto:"
+
+#: inc/customizer.php:531 inc/customizer.php:926 inc/customizer.php:988
+#: inc/customizer.php:1653
+msgid "Button link"
+msgstr "Link do botão"
+
+#: inc/customizer.php:547
+msgid "Right Panel"
+msgstr "Painel direito"
+
+#: inc/customizer.php:548
+msgid "Link of your video (if any):"
+msgstr "Link do seu vídeo (se houver):"
+
+#: inc/customizer.php:565
+msgid "Choose an image for this section."
+msgstr "Escolha uma imagem para esta seção."
+
+#: inc/customizer.php:574
+msgid "Section: Counter"
+msgstr "Seção: Contador"
+
+#: inc/customizer.php:588
+msgid "First Counter"
+msgstr "Primeiro Contador"
+
+#: inc/customizer.php:589 inc/customizer.php:654 inc/customizer.php:719
+#: inc/customizer.php:784
+msgid "Counter number"
+msgstr "Número do contador"
+
+#: inc/customizer.php:604 inc/customizer.php:669 inc/customizer.php:734
+#: inc/customizer.php:799 inc/customizer.php:1261 inc/customizer.php:1310
+#: inc/customizer.php:1359 inc/customizer.php:1408 inc/customizer.php:1457
+#: inc/customizer.php:1506
+msgid "Text"
+msgstr "Texto"
+
+#: inc/customizer.php:620 inc/customizer.php:685 inc/customizer.php:750
+#: inc/customizer.php:815
+msgid "Counter Icon"
+msgstr "Ícone de contador"
+
+#: inc/customizer.php:620 inc/customizer.php:685 inc/customizer.php:750
+#: inc/customizer.php:815 inc/customizer.php:1277 inc/customizer.php:1326
+#: inc/customizer.php:1375 inc/customizer.php:1424 inc/customizer.php:1473
+#: inc/customizer.php:1522
+msgid "See more icons "
+msgstr "Veja mais ícones "
+
+#: inc/customizer.php:620 inc/customizer.php:685 inc/customizer.php:750
+#: inc/customizer.php:815 inc/customizer.php:1277 inc/customizer.php:1326
+#: inc/customizer.php:1375 inc/customizer.php:1424 inc/customizer.php:1473
+#: inc/customizer.php:1522 inc/customizer.php:1595
+msgid "here"
+msgstr "aqui"
+
+#: inc/customizer.php:637 inc/customizer.php:702 inc/customizer.php:767
+#: inc/customizer.php:832
+msgid "Symbol or character after number (optional)"
+msgstr "Símbolo ou caractere após o número (opcional)"
+
+#: inc/customizer.php:653
+msgid "Second counter"
+msgstr "Segundo contador"
+
+#: inc/customizer.php:718
+msgid "Third counter"
+msgstr "Terceiro contador"
+
+#: inc/customizer.php:783
+msgid "Fourth counter"
+msgstr "Quarto contador"
+
+#: inc/customizer.php:841
+msgid "Section: Blog"
+msgstr "Seção: Blog"
+
+#: inc/customizer.php:858
+msgid "Choose an image for this section"
+msgstr "Escolha uma imagem para esta seção"
+
+#: inc/customizer.php:876
+msgid "Section Title:"
+msgstr "Título da seção:"
+
+#: inc/customizer.php:892
+msgid "Tab 1"
+msgstr "Guia 1"
+
+#: inc/customizer.php:893
+msgid "First Tab Title"
+msgstr "Título da primeira guia"
+
+#: inc/customizer.php:909
+msgid "First tab button Text:"
+msgstr "Botão da primeira guia Texto:"
+
+#: inc/customizer.php:940
+msgid "Show Map Tab 2?"
+msgstr "Mostrar guia 2 do mapa?"
+
+#: inc/customizer.php:943
+msgid "Choose whether to show a second tab on theme or not. If yes, contact admin to adjust it for you."
+msgstr "Escolha se deseja mostrar uma segunda guia no tema ou não. Se sim, entre em contato com o administrador para ajustá-lo para você."
+
+#: inc/customizer.php:955
+msgid "Tab 2"
+msgstr "Guia 2"
+
+#: inc/customizer.php:956
+msgid "Second Tab Title"
+msgstr "Segundo título da guia"
+
+#: inc/customizer.php:972
+msgid "Second tab button Text:"
+msgstr "Botão da segunda guia Texto:"
+
+#: inc/customizer.php:996
+msgid "Section: Classes"
+msgstr "Seção: Classes"
+
+#: inc/customizer.php:1010 inc/customizer.php:1066 inc/customizer.php:1151
+#: inc/customizer.php:1213 inc/customizer.php:1560
+msgid "Section title:"
+msgstr "Título da seção:"
+
+#: inc/customizer.php:1026 inc/customizer.php:1082 inc/customizer.php:1167
+#: inc/customizer.php:1229 inc/customizer.php:1576
+msgid "Section description:"
+msgstr "Descrição da seção:"
+
+#: inc/customizer.php:1042
+msgid "Buttons Text:"
+msgstr "Texto dos botões:"
+
+#: inc/customizer.php:1052
+msgid "Section: Team"
+msgstr "Seção: Equipe"
+
+#: inc/customizer.php:1096
+msgid "Show Button?"
+msgstr "Mostrar botão?"
+
+#: inc/customizer.php:1099
+msgid "Choose whether to show a button on theme or not."
+msgstr "Escolha se deseja mostrar um botão no tema ou não."
+
+#: inc/customizer.php:1111
+msgid "Button"
+msgstr "Botão"
+
+#: inc/customizer.php:1128
+msgid "Button link:"
+msgstr "Link do botão:"
+
+#: inc/customizer.php:1137
+msgid "Section: Testimonials"
+msgstr "Seção: Depoimentos"
+
+#: inc/customizer.php:1187
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/customizer.php:1199
+msgid "Section: Extras"
+msgstr "Seção: Extras"
+
+#: inc/customizer.php:1245
+msgid "First Box"
+msgstr "Primeira Caixa"
+
+#: inc/customizer.php:1246 inc/customizer.php:1295 inc/customizer.php:1344
+#: inc/customizer.php:1393 inc/customizer.php:1442 inc/customizer.php:1491
+msgid "Title"
+msgstr "Título"
+
+#: inc/customizer.php:1277 inc/customizer.php:1326 inc/customizer.php:1375
+#: inc/customizer.php:1424 inc/customizer.php:1473 inc/customizer.php:1522
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/customizer.php:1294
+msgid "Second Box"
+msgstr "Segunda caixa"
+
+#: inc/customizer.php:1343
+msgid "Third Box"
+msgstr "Terceira caixa"
+
+#: inc/customizer.php:1392
+msgid "Fourth Box"
+msgstr "Quarta Caixa"
+
+#: inc/customizer.php:1441
+msgid "Fifth Box"
+msgstr "Quinta Caixa"
+
+#: inc/customizer.php:1490
+msgid "Sixth Box"
+msgstr "Sexta Caixa"
+
+#: inc/customizer.php:1533
+msgid "Section: Map"
+msgstr "Seção: Mapa"
+
+#: inc/customizer.php:1545
+msgid "Show Map Section?"
+msgstr "Mostrar seção do mapa?"
+
+#: inc/customizer.php:1548
+msgid "Choose whether to show the map on theme or not"
+msgstr "Escolha se deseja mostrar o mapa no tema ou não"
+
+#: inc/customizer.php:1593
+msgid "Google Maps Embed API key"
+msgstr "Chave da API do Google Maps Embed"
+
+#: inc/customizer.php:1595
+msgid "Get the Google Maps Embed API key "
+msgstr "Obter a chave da API do Google Maps Embed "
+
+#: inc/customizer.php:1606
+msgid "Section: Banner"
+msgstr "Seção: Faixa"
+
+#: inc/customizer.php:1620
+msgid "Banner"
+msgstr "Faixa"
+
+#: inc/customizer.php:1621
+msgid "Banner sentence"
+msgstr "Frase da faixa"
+
+#: inc/customizer.php:1637
+msgid "Button text"
+msgstr "Botão de texto"
+
+#: inc/customizer.php:1662
+msgid "Page: Blog"
+msgstr "Página: Blog"
+
+#: inc/customizer.php:1663
+msgid "Settings of the Page Blog"
+msgstr "Configurações do blog da página"
+
+#: inc/customizer.php:1681 inc/customizer.php:1727 inc/customizer.php:1773
+#: inc/customizer.php:1819 inc/customizer.php:1865
+msgid "Choose a cover image to this page. (Go to page to see the changes.)"
+msgstr "Escolha uma imagem de capa para esta página. (Vá para a página para ver as alterações.)"
+
+#: inc/customizer.php:1698 inc/customizer.php:1744 inc/customizer.php:1790
+#: inc/customizer.php:1836 inc/customizer.php:1882
+msgid "Page Heading Title:"
+msgstr "Título do cabeçalho da página:"
+
+#: inc/customizer.php:1699 inc/customizer.php:1745 inc/customizer.php:1791
+#: inc/customizer.php:1837 inc/customizer.php:1883
+msgid "Default value: Page Title. (Go to page to see the changes)"
+msgstr "Valor padrão: Título da Página. (Vá para a página para ver as alterações)"
+
+#: inc/customizer.php:1708
+msgid "Page: Classes"
+msgstr "Página: Classes"
+
+#: inc/customizer.php:1709
+msgid "Settings of the Page Classes"
+msgstr "Configurações das classes de página"
+
+#: inc/customizer.php:1754
+msgid "Page: Team"
+msgstr "Página: Equipe"
+
+#: inc/customizer.php:1755
+msgid "Settings of the Page Team"
+msgstr "Configurações da equipe da página"
+
+#: inc/customizer.php:1800
+msgid "Page: About"
+msgstr "Página: Sobre"
+
+#: inc/customizer.php:1801
+msgid "Settings of the Page About"
+msgstr "Configurações da página Sobre"
+
+#: inc/customizer.php:1846
+msgid "Page: Contact"
+msgstr "Página: Contato"
+
+#: inc/customizer.php:1847
+msgid "Settings of the Page Contact"
+msgstr "Configurações do contato da página"
+
+#: inc/customizer.php:1899
+msgid "Informations Panel Title"
+msgstr "Título do Painel de Informações"
+
+#: inc/customizer.php:1915
+msgid "Contact Form"
+msgstr "Formulário de Contato"
+
+#: inc/customizer.php:1916
+msgid "Form Title:"
+msgstr "Título do formulário:"
+
+#: inc/customizer.php:1932
+msgid "Form Description:"
+msgstr "Descrição do formulário:"
+
+#: inc/customizer.php:1947
+msgid "Contact 7 Form Shortcode:"
+msgstr "Código de acesso do formulário 7:"
+
+#: inc/customizer.php:1948
+msgid "In the admin panel: \"Contact\" > \"Contact Form\" > \"Shortcode\""
+msgstr "No painel do administrador: \"Contato \"> \"Formulário de contato \"> \"Shortcode \""
+
+#: inc/customizer.php:1962
+msgid "Website Pages"
+msgstr "Páginas do site"
+
+#: inc/customizer.php:1963
+msgid "Adjust your Header and Navigation sections."
+msgstr "Ajuste as seções Cabeçalho e Navegação."
