@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Siba Project 1.0\n"
 "POT-Creation-Date: 2019-10-19 13:10+0200\n"
-"PO-Revision-Date: 2019-10-22 09:25+0200\n"
+"PO-Revision-Date: 2019-10-22 09:53+0200\n"
 "Last-Translator: Matheus Siba <matheus.eco.2010@gmail.com>\n"
 "Language-Team: \n"
 "Language: pt_BR\n"
@@ -107,7 +107,7 @@ msgstr "4) Escreva algo sobre esta classe, usando a caixa de área de texto abai
 
 #: functions.php:201 functions.php:225 functions.php:247
 msgid "Additionally you can adjust the order of appearance using the \"Item Attributes\" box > \"Order\"."
-msgstr "Além disso, você pode ajustar a ordem da aparência usando a caixa \"Atributos do item \"> \"Pedido \"."
+msgstr "Além disso, você pode ajustar a ordem da aparência usando a caixa \"Atributos do item \"> \"Ordem\"."
 
 #: functions.php:203 functions.php:227 functions.php:249
 msgid "Numbers close to 0 appears first."
